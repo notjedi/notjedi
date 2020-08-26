@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 ### Hi there, I'm Krithic Kumar 👋
-
 
 ## I'm a Student, Self-taught Developer & Linux Enthusiast!
 
@@ -19,6 +17,8 @@
 [<img align="left" alt="jedi2610 | GitHub" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
 
 <br />
+
+---
 
 ### Languages and Tools:
 
@@ -48,21 +48,3 @@
 [instagram]: https://www.instagram.com/krithic_kumar
 [github]: https://www.github.com/jedi2610
 [reddit]: https://www.reddit.com/user/jedi1026
-=======
-### Hi there 👋
-
-<!--
-**jedi2610/jedi2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning android and java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
->>>>>>> c331b701ebf2070c7ae5c11a3d75c4d4e45843c5
