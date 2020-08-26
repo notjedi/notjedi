@@ -1,3 +1,7 @@
+<img align="left" alt="jedi2610's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jedi2610&show_icons=true&include_all_commits=true&hide_border=true" />
+
+<br />
+
 ### Hi there, I'm Krithic Kumar 👋
 
 ## I'm a Student, Self-taught Developer & Linux Enthusiast!
@@ -33,14 +37,6 @@
 <br />
 <br />
 
----
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="jedi2610's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jedi2610&show_icons=true&include_all_commits=true&hide_border=true" />
-
-</details>
 
 [currentProject]: https://www.github.com/jedi2610/pyDownloader
 [instagram]: https://www.instagram.com/krithic_kumar
