@@ -3,7 +3,6 @@
 </p>
 
 <br />
-<br />
 
 ### Hi there, I'm Krithic Kumar 👋
 
