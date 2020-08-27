@@ -8,8 +8,8 @@
 
 ## I'm a Student, Self-taught Developer & Linux Enthusiast!
 
-- 🔭 I’m currently working on a [Attendance Manager][currentProject]
-- 🌱 I’m currently learning everything `android`, `java` and `bash`
+- 🔭 I’m currently working on an [Attendance Manager][currentProject]
+- 🌱 I’m currently learning `android`, `java` and `bash`
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to 🎧 
