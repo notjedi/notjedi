@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="jedi2610's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jedi2610&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" />
+  <img alt="jedi2610's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jedi2610&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" />
 </p>
 
 <br />
@@ -40,7 +40,7 @@
 <br />
 
 
-[currentProject]: https://www.github.com/jedi2610/pyDownloader
+[currentProject]: https://www.github.com/jedi2610/Attendance-Manager
 [instagram]: https://www.instagram.com/krithic_kumar
 [github]: https://www.github.com/jedi2610
 [reddit]: https://www.reddit.com/user/jedi1026
