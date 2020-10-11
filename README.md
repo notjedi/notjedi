@@ -19,7 +19,7 @@
 [<img align="left" alt="jedi2610 | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
 [<img align="left" alt="jedi2610 | Reddit" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
 [<img align="left" alt="jedi2610 | GitHub" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
-
+[<img align="left" alt="jedi2610 | Spotify" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174872.svg" />][spotify]
 <br />
 
 ### Languages and Tools:
@@ -42,3 +42,4 @@
 [instagram]: https://www.instagram.com/krithic_kumar
 [github]: https://www.github.com/jedi2610
 [reddit]: https://www.reddit.com/user/jedi1026
+[spotify]: https://open.spotify.com/user/krithic_kumar?si=KMoruRySR4SuXaR0euuRhw
