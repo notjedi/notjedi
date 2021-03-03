@@ -6,11 +6,11 @@
 
 ## I'm a Student, Self-taught Developer & Linux Enthusiast!
 
-- 🔭 I’m currently working on [Attendance Manager][currentProject]
-- 🌱 I’m currently learning `android`, `java`, `kotlin` and `bash`
+- 🔭 I’m currently working on [Attendance Manager][currentproject]
+- 🌱 I’m currently learning `machine learning`
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to 🎧 
+- ⚡ Fun fact: I love to 🎧
 
 ---
 
@@ -37,8 +37,7 @@
 <br />
 <br />
 
-
-[currentProject]: https://www.github.com/jedi2610/Attendance-Manager
+[currentproject]: https://www.github.com/jedi2610/Attendance-Manager
 [instagram]: https://www.instagram.com/krithic_kumar
 [github]: https://www.github.com/jedi2610
 [reddit]: https://www.reddit.com/user/jedi1026
