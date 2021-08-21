@@ -7,7 +7,7 @@
 ## I'm a Student, Self-taught Developer & Linux Enthusiast!
 
 - 🔭 I’m currently working on [Attendance Manager][currentproject]
-- 🌱 I’m currently learning`blockchain` and `solidity`
+- 🌱 I’m currently learning `blockchain` and `solidity`
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to 🎧
