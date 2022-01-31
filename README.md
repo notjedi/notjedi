@@ -42,9 +42,6 @@
 ![Neovim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-<br />
-<br />
-
 [currentProject]: https://www.github.com/jedi2610/tuxkart-ai
 [mail]: mailto:github.nucleate@slmail.me
 [youtube]: https://www.youtube.com/channel/UCS6soGWcxCdxafDLap_9Btg
