@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="jedi2610's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jedi2610&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" />
+  <img alt="notjedi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=notjedi&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" />
 </p>
 
 ### Hi there, I'm Krithic Kumar 👋
@@ -7,13 +7,13 @@
 ## I'm a Student, Self-taught Developer & Linux Enthusiast!
 
 - 🔭 I’m currently working on [tuxkart-ai][currentProject]
-- 🌱 I’m currently learning `haskell`
+- 🌱 I’m currently learning `rust`.
 
 ---
 
 ### Connect with me:
 
-[![jedi2610 | SimpleLogin](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)][mail]
+[![notjedi | SimpleLogin](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)][mail]
 [![tom cr00se | Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
 [![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)][rss]
 <br />
@@ -24,6 +24,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,7 +43,14 @@
 ![Neovim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-[currentProject]: https://www.github.com/jedi2610/tuxkart-ai
+[currentProject]: https://www.github.com/notjedi/tuxkart-ai
 [mail]: mailto:github.nucleate@slmail.me
 [youtube]: https://www.youtube.com/channel/UCS6soGWcxCdxafDLap_9Btg
-[rss]: https://jedi2610.github.io/atom.xml
+[rss]: https://notjedi.github.io/atom.xml
+
+<!-- dynamic cards from https://github.com/alexandresanlim/Badges4-README.md -->
+<!-- https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notjedi&theme=vue -->
+<!-- https://activity-graph.herokuapp.com/graph?username=notjedi&theme=minimal -->
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=notjedi -->
+<!-- https://github-readme-streak-stats.herokuapp.com/?user=notjedi -->
+<!-- https://github-profile-trophy.vercel.app/?username=notjedi -->
